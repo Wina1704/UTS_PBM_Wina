@@ -4,8 +4,8 @@ Aplikasi ini dirancang untuk membantu mahasiswa mengelola jadwal kuliah dan berb
 
 ---
 
-**Nama:** [Wina Windari Kusdarniza]  
-**NPM:** [4522210017]
+**Nama:** Wina Windari Kusdarniza  
+**NPM:** 4522210017
 
 ---
 
