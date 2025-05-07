@@ -1,16 +1,10 @@
-# project_wina
+# Aplikasi Jadwal Kuliah dan Kegiatan Mahasiswa
 
-A new Flutter project.
+## Instruksi Singkat
+1. Kita ke halaman home
+2. Di halaman home, klik button tambah untuk menambah data aktivitas, lalu pengguna isi dengan nama aktivitas dan pilih tanggal lalu simpan
+2. Di halaman home pengguna juga bisa melihat ada beberapa quote yang bisa di geser dan pengguna bisa menghapus aktivitas yang ingin di hapus dengan cara centang aktivitas yang ingin di hapus, lalu klik button hapus yang ada di sebelah pojok kanan atas
+3. Di halaman jadwal, pengguna bisa melihat kuliah yang tertera dari hari senin-jum'at
+4. Pada bagian profile, terdapat nama, nim dan email yang bisa pengguna edit dan juga terdapat mode dark mode 
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
