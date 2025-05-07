@@ -1,10 +1,44 @@
-# Aplikasi Jadwal Kuliah dan Kegiatan Mahasiswa
+# 📅 Aplikasi Jadwal Kuliah & Kegiatan Mahasiswa
 
-## Instruksi Singkat
-1. Kita ke halaman home
-2. Di halaman home, klik button tambah untuk menambah data aktivitas, lalu pengguna isi dengan nama aktivitas dan pilih tanggal lalu simpan
-2. Di halaman home pengguna juga bisa melihat ada beberapa quote yang bisa di geser dan pengguna bisa menghapus aktivitas yang ingin di hapus dengan cara centang aktivitas yang ingin di hapus, lalu klik button hapus yang ada di sebelah pojok kanan atas
-3. Di halaman jadwal, pengguna bisa melihat kuliah yang tertera dari hari senin-jum'at
-4. Pada bagian profile, terdapat nama, nim dan email yang bisa pengguna edit dan juga terdapat mode dark mode 
+Aplikasi ini dirancang untuk membantu mahasiswa mengelola jadwal kuliah dan berbagai aktivitas harian secara praktis dan efisien. Fitur-fitur utama meliputi pencatatan aktivitas, tampilan jadwal kuliah mingguan, dan pengelolaan profil pengguna.
 
+---
 
+## 🛠️ Fitur Utama
+
+### 1. Halaman Home
+- **Tambah Aktivitas:**  
+  Klik tombol **Tambah (+)** untuk menambahkan aktivitas baru. Masukkan *nama aktivitas* dan *tanggal*, lalu tekan tombol **Simpan**.
+
+- **Quote Harian:**  
+  Terdapat kutipan motivasi yang dapat digeser (carousel) untuk memberi semangat setiap hari.
+
+- **Hapus Aktivitas:**  
+  Untuk menghapus aktivitas, centang aktivitas yang ingin dihapus lalu klik tombol **Hapus 🗑️** di pojok kanan atas.
+
+![Tampilan Home](assets/homepage.png)
+
+---
+
+### 2. Halaman Jadwal Kuliah
+- Menampilkan jadwal kuliah dari **Senin hingga Jumat** secara terorganisir.
+
+![Tampilan Jadwal](assets/schedule.png)
+
+---
+
+### 3. Halaman Profil
+- Menampilkan informasi pribadi: **Nama**, **NIM**, dan **Email**.
+- Pengguna dapat **mengedit** data pribadi.
+- Tersedia pilihan **Dark Mode** untuk kenyamanan tampilan.
+
+![Tampilan Profil](assets/profile.png)
+
+---
+
+## 🖼️ Menambahkan Gambar di README
+
+Untuk menambahkan gambar ke README, gunakan sintaks Markdown berikut:
+
+```markdown
+![Deskripsi Gambar](path/ke/gambar.png)
