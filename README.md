@@ -1,6 +1,6 @@
 # 📅 Aplikasi Jadwal Kuliah & Kegiatan Mahasiswa
 
-Aplikasi ini dirancang untuk membantu mahasiswa mengelola jadwal kuliah dan berbagai aktivitas harian secara praktis dan efisien. Fitur-fitur utama meliputi pencatatan aktivitas, tampilan jadwal kuliah mingguan, dan pengelolaan profil pengguna.
+Aplikasi ini dirancang untuk membantu mahasiswa mengelola jadwal kuliah dan berbagai aktivitas harian secara praktis dan efisien. Fitur-fitur utama meliputi pencatatan aktivitas, tampilan jadwal kuliah, dan pengelolaan profil pengguna.
 
 ---
 
@@ -21,28 +21,36 @@ Aplikasi ini dirancang untuk membantu mahasiswa mengelola jadwal kuliah dan berb
 - **Hapus Aktivitas:**  
   Untuk menghapus aktivitas, centang aktivitas yang ingin dihapus lalu klik tombol **Hapus 🗑️** di pojok kanan atas.
 
+#### 📱 Tampilan Home Mode Mobile Light
 ![Tampilan Home Mode Mobile Light](https://github.com/user-attachments/assets/fed5cb39-ad4f-4009-a395-70dbfb89caf7)
 
+<br/>
+
+#### 🌙 Tampilan Home Mode Mobile Dark
 ![Tampilan Home Mode Mobile Dark](https://github.com/user-attachments/assets/a2a3c65f-e0fd-4a04-a379-f5b7d282c517)
 
+<br/>
 
+#### 💻 Tampilan Home Mode Tablet
 ![Tampilan Home Mode Tablet](https://github.com/user-attachments/assets/bcf8d092-b303-41ef-a4db-6466d2e7beb0)
-
-
 
 ---
 
 ### 2. Halaman Jadwal Kuliah
 - Menampilkan jadwal kuliah dari **Senin hingga Jumat** secara terorganisir.
 
+#### 📱 Tampilan Jadwal Mode Mobile Light
 ![Tampilan Jadwal Mode Mobile Light](https://github.com/user-attachments/assets/3e916fb0-8b92-4455-9bc6-d8c15fb0bcf7)
 
+<br/>
+
+#### 💻 Tampilan Jadwal Mode Tablet
 ![Tampilan Jadwal Mode Tablet](https://github.com/user-attachments/assets/26388a7e-bcc3-4002-8ef1-9cd36e5acf70)
 
+<br/>
+
+#### 🌙 Tampilan Jadwal Mode Tablet Dark
 ![Tampilan Home Mode Tablet Dark](https://github.com/user-attachments/assets/a141614c-e356-4050-ac17-cd5706fdee3c)
-
-
-
 
 ---
 
@@ -51,9 +59,10 @@ Aplikasi ini dirancang untuk membantu mahasiswa mengelola jadwal kuliah dan berb
 - Pengguna dapat **mengedit** data pribadi.
 - Tersedia pilihan **Dark Mode** untuk kenyamanan tampilan.
 
+#### 📱 Tampilan Profil Mode Mobile
 ![Tampilan Profil Mode Mobile](https://github.com/user-attachments/assets/c9757d0b-2823-4b83-837b-ac639f2ff588)
 
+<br/>
 
+#### 💻 Tampilan Profil Mode Tablet
 ![Tampilan Profil Mode Tablet](https://github.com/user-attachments/assets/47bb2b23-2d10-4e8b-ac5c-5c8c00e4c492)
-
-
